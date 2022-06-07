@@ -1,0 +1,7 @@
+#  O que é Git:
+
+
+
+####  	Git é uma ferramenta de versionamento de software (códigos distribuídos) contendo muitas versões de uma mesma coisa. 
+
+####  	O Git foi criado em 2005 por Linus Torvals ([Linus Torvalds - Wikipedia](https://en.wikipedia.org/wiki/Linus_Torvalds)) à partir de um "descontentamento" de outros sistemas de versionamento já utilizados por ele há algum tempo atrás, como o CVS. Ele precisava ter um sistema que tivesse versões e que fosse complexo ao mesmo tempo, para que outras pessoas pudessem trabalhar de diversos lugares do mundo de suas máquinas.
